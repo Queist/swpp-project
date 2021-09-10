@@ -7,4 +7,10 @@ Kim Jinyoung
 Lee Yuna  
 Song Subin  
   
-## Topic
+## Topic  
+//TODO
+  
+
+### Activity Log  
+9/10 Project Topic Brainstorming / Feedback : At Zoom  
+  
