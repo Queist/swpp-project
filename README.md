@@ -8,10 +8,10 @@ Lee Yuna
 Song Subin  
   
 ## Topic  
-//TODO
+ReJourN : SNS Service For Journey
   
 
-### Activity Log  
+## Activity Log  
 9/10 Project Topic Brainstorming / Feedback : At Zoom  
 9/12 Project Topic Confirmed : At SNU Entrance
 9/19 Discuss Details For Proposal : At Zoom
