@@ -2,7 +2,7 @@
 swpp-2021-fall project   
   
 ## Teammates  
-Kim Dohyoun  
+Kim Dohyun  
 Kim Jinyoung  
 Lee Yuna  
 Song Subin  
